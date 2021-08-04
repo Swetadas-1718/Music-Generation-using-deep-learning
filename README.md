@@ -1,7 +1,7 @@
 # Music Generation
 <img src = https://github.com/Swetadas-1718/Music-Generation/blob/main/sheet%20music.jpg>
 
-## Refer my medium article for the same:
+## Refer my medium article for the same: https://medium.com/mlearning-ai/music-generation-using-deep-learning-49692851c57c
 
 
 ## Real World Problem
